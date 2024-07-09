@@ -1,0 +1,39 @@
+1. How do you handle memory management in Python, and what are some best practices for optimizing memory usage?
+Memory management in Python:
+I know Python has automatic memory management with garbage collection. I try to be careful with large data structures and use generators when possible to save memory
+
+2. Explain the difference between deep copy and shallow copy in Python. When would you use each?
+Deep copy vs shallow copy:
+Shallow copy creates a new object but references the same memory for nested objects. Deep copy creates a completely independent copy. I'd use deep copy when I need to modify nested objects without affecting the original.
+
+3. What are decorators in Python, and how do you implement them? Can you give an example of a practical use case?
+Decorators:
+Decorators are functions that modify other functions. I've used them for simple logging in my projects. For example, @timer to measure function execution time.
+
+4. How does Python's Global Interpreter Lock (GIL) work, and what are its implications for multi-threaded applications?
+Global Interpreter Lock (GIL):
+I've heard of the GIL but I'm not very familiar with its workings or implications. I know it can affect multi-threaded performance in CPU-bound tasks.
+
+5. Describe the differences between Python 2 and Python 3. What are some key features introduced in Python 3?
+Python 2 vs Python 3:
+I've only worked with Python 3. I know print is a function now, and there are new features like f-strings and the walrus operator.
+
+6. How do you implement concurrency in Python? Compare and contrast threading, multiprocessing, and asyncio.
+Concurrency in Python:
+I've used threading for I/O-bound tasks in a web scraping project. I'm aware of multiprocessing and asyncio but haven't used them extensively.
+
+7. Explain the concept of metaclasses in Python. When and why would you use them?
+Metaclasses:
+I'm not very familiar with metaclasses. I understand they're classes for classes, but I haven't used them in my projects.
+
+8. How do you handle database connections in a Python application? What are some best practices for managing database transactions?
+Database connections:
+In my projects, I've used SQLite with the sqlite3 module. I always make sure to close connections after use.
+
+9. What are some design patterns you commonly use in Python, and can you provide examples of how you've implemented them?
+Design patterns:
+I've implemented a simple Singleton pattern in a project to ensure only one instance of a configuration manager.
+
+10. How do you approach testing in Python? Describe your experience with unit testing, integration testing, and mocking.
+Testing in Python:
+I've used unittest for some basic unit testing in my projects. I'm familiar with assert statements and test cases, but I haven't done much with integration testing or mocking.

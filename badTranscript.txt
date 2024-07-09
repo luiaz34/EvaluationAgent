@@ -1,0 +1,49 @@
+
+1. How do you handle memory management in Python, and what are some best practices for optimizing memory usage?
+Memory management in Python:
+I'm not sure about the details, but I know Python handles memory automatically.
+
+2. Explain the difference between deep copy and shallow copy in Python. When would you use each?
+Deep copy vs shallow copy:
+I've heard these terms, but I'm not entirely clear on the difference. I'd need to look that up.
+
+3. What are decorators in Python, and how do you implement them? Can you give an example of a practical use case?
+Decorators:
+I've seen the @ symbol in some Python code, but I'm not sure what it does exactly.
+
+4. How does Python's Global Interpreter Lock (GIL) work, and what are its implications for multi-threaded applications?
+Global Interpreter Lock (GIL):
+I'm sorry, I'm not familiar with this concept.
+
+5. Describe the differences between Python 2 and Python 3. What are some key features introduced in Python 3?
+Python 2 vs Python 3:
+I've only used Python 3 in my projects. I know Python 2 is older, but I'm not sure of the specific differences.
+
+6. How do you implement concurrency in Python? Compare and contrast threading, multiprocessing, and asyncio.
+Concurrency in Python:
+I haven't worked with this yet. Is it related to running things at the same time?
+
+7. Explain the concept of metaclasses in Python. When and why would you use them?
+Metaclasses:
+I'm afraid I don't know what these are.
+
+8. How do you handle database connections in a Python application? What are some best practices for managing database transactions?
+Database connections:
+I've used SQLite in a small project, but I'm not sure about best practices for managing connections.
+
+9. What are some design patterns you commonly use in Python, and can you provide examples of how you've implemented them?
+Design patterns:
+I've heard this term, but I haven't knowingly used any specific design patterns in my projects yet.
+
+10. How do you approach testing in Python? Describe your experience with unit testing, integration testing, and mocking.
+Testing in Python:
+I've run some basic tests using assert statements, but I haven't used any formal testing frameworks.
+
+
+
+
+
+
+
+
+

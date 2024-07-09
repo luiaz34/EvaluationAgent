@@ -1,0 +1,43 @@
+Senior Python Developer Job Description
+Location: Bkk,Thailand
+About [Company Name]: NUOS
+
+Our organization is a rapidly expanding tech firm that focuses on offering cutting-edge solutions in the field of [specific industry or product/service]. Our key values include fostering innovation, promoting teamwork, and ensuring our clients receive the highest quality of service. As we expand, we are actively searching for an accomplished Senior Python Developer who shares our vision and can contribute to our success.
+
+Objectives:
+Design and develop high-quality Python-based applications using popular frameworks such as Django and Flask.
+Collaborate with cross-functional teams to ensure our software solutions are scalable, reliable, and easy to maintain.
+Ensure the reliability, performance, and security of software applications by debugging and troubleshooting issues, identifying root causes, and proposing solutions.
+Write clean, efficient, and maintainable code that adheres to best practices and standards for software development.
+Contribute to the development of best practices and standards for software development to improve our software development process and efficiency.
+ 
+Responsibilities:
+Design and develop software solutions using Python programming language and related frameworks.
+Recognize the client’s needs and implement the functional requirements in accordance with them.
+Collaborate with cross-functional teams to identify project requirements and create technical specifications.
+Write clean, efficient, and maintainable code following software development best practices and standards.
+Test, debug, and troubleshoot software applications to ensure reliability, performance, and security.
+Contribute to the continuous improvement of software development processes, tools, and technologies.
+Mentor junior developers and participate in code reviews to ensure code quality and maintainability.
+Stay up-to-date with the latest industry trends, tools, and technologies and propose innovative solutions to enhance our software development practices.
+Communicate effectively with stakeholders to provide updates on project status and address concerns or issues.
+Participate in agile development methodologies and use project management tools to manage and track project progress.
+Ensure compliance with software development standards and regulatory requirements.
+ 
+Required Skills & Qualifications:
+A degree in Computer Science or a related field and at least 5 years of professional experience in Python development.
+3+ years experience in Python programming with a deep understanding of core concepts and libraries.
+Strong proficiency in software development methodologies such as Agile and Scrum.
+Expertise in designing, developing, and deploying large-scale web applications and backend systems.
+Strong experience with databases like MySQL, PostgreSQL, and MongoDB.
+Proficiency in writing and optimizing complex SQL queries and database schema design.
+Experience with RESTful APIs, microservices, and containerization technologies like Docker and Kubernetes.
+Excellent understanding of version control systems like Git, SVN, and Bitbucket.
+Knowledge of front-end technologies such as HTML, CSS, and JavaScript.
+Familiarity with cloud computing platforms like AWS, Azure, and GCP.
+Excellent analytical and problem-solving skills to troubleshoot and resolve complex software issues.
+ 
+Preferred Skills and Qualifications:
+Excellent communication skills and the ability to articulate complex ideas to both technical and non-technical stakeholders.
+Ability to work independently and as part of a team in a fast-paced, deadline-driven environment.
+Willingness to learn new technologies and stay up-to-date with industry developments and trends.
