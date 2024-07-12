@@ -8,7 +8,7 @@ import fitz
 load_dotenv()
 
 # Define functions to read job description, interview transcript, and extract text from PDF
-def readingJD():
+def job_description():
     file_path = r"C:\Users\khain\Documents\EvaluatingAgent\JD.txt"
     try:
         with open(file_path, 'r') as file:
@@ -21,7 +21,7 @@ def readingJD():
         content = ""
     return content
 
-def readingtranscript():
+def interview_transcript():
     file_path = r"C:\Users\khain\Documents\EvaluatingAgent\goodTranscript.txt"
     try:
         with open(file_path, 'r') as file:
@@ -34,7 +34,7 @@ def readingtranscript():
         content = ""
     return content
 
-def readingPDF():
+def cv():
     pdf_path = r'C:\Users\khain\Documents\EvaluatingAgent\candidateCV.pdf'
     try:
         doc = fitz.open(pdf_path)
@@ -50,10 +50,11 @@ def readingPDF():
         text = ""
     return text
 
+
 # Read input data
-job_description = readingJD()
-interview_transcript = readingtranscript()
-cv_text = readingPDF()
+job_description = job_description()
+interview_transcript = interview_transcript()
+cv = cv()
 
 # Define the prompt template
 template = """
@@ -121,7 +122,7 @@ message = client.messages.create(
     messages=[
         {
             "role": "user",
-            "content": template.format(job_description=job_description, interview_transcript=interview_transcript, cv=cv_text)
+            "content": template.format(job_description=job_description, interview_transcript=interview_transcript, cv=cv)
         }
     ]
 )
